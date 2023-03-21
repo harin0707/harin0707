@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=40&pause=1000&color=76AD1FE8&background=F9FF8B5F&center=true&vCenter=true&repeat=false&width=435&height=60&lines=%F0%9F%A5%91%F0%9F%8D%90Hi!+I+am+Harin+%3A++%F0%9F%A5%9D%F0%9F%8D%88+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=30&pause=1000&color=76AD1FE8&background=F9FF8B5F&center=true&vCenter=true&repeat=false&width=435&height=80&lines=%F0%9F%A5%91%F0%9F%8D%90Hi!+I+am+Harin+%3A++%F0%9F%A5%9D%F0%9F%8D%88+)](https://git.io/typing-svg)
